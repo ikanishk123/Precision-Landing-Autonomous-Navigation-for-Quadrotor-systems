@@ -1,12 +1,9 @@
 # Autonomous Safe Landing Spot Detection for Quadrotor Systems
 
-**Authors:** Yash Golani (B22ME072), Kanishk Lamba (B22ME029)  
+**Authors:** Kanishk Lamba (B22ME029) , Yash Golani (B22ME072)
 **Supervisors:** Dr. Riby Abraham Boby, Dr. Jayant Kumar Mohanta  
 **Department:** Mechanical Engineering, IIT Jodhpur  
 **Submitted:** November 2025
-
-**Full project report (PDF):** [/mnt/data/report btp.pdf](/mnt/data/report btp.pdf)  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -32,9 +29,11 @@ Key components:
 ## Results & Figures (from report)
 > The images below are taken directly from the submitted report. If you want PNG copies inside the repo, extract them from the PDF pages linked below.
 
-- **Figure 1 — High-altitude drone segmentation result**  
-  `![Figure 1 — High-altitude segmentation](/mnt/data/report btp.pdf#page=13)` (see report page 13). :contentReference[oaicite:2]{index=2}
+<img width="989" height="466" alt="Screenshot 2025-11-17 143040" src="https://github.com/user-attachments/assets/96c79164-f253-4f31-aa5d-1a2b05391825" />
 
+- **Figure 1 — High-altitude drone segmentation result**
+
+ 
 - **Figure 2 — IIT Jodhpur campus segmentation result**  
   `![Figure 2 — Campus segmentation](/mnt/data/report btp.pdf#page=13)` (see report page 13). :contentReference[oaicite:3]{index=3}
 

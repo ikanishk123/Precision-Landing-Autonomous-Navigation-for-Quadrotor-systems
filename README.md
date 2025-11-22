@@ -49,6 +49,4 @@ Key components:
 ## Evaluation / Metrics
 The project tracks standard segmentation metrics during training and evaluation:
 - **mIoU (mean Intersection over Union)**
-- **Precision / Recall**
-- Qualitative results and edge-case discussion are in the report (boundary fuzziness, small-object misses, dim-light robustness). :contentReference[oaicite:6]{index=6}
-  
+- **Precision / Recall**  

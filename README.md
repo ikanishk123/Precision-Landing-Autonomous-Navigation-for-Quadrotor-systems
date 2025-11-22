@@ -1,8 +1,8 @@
 # Autonomous Safe Landing Spot Detection for Quadrotor Systems
 
 **Authors:** Kanishk Lamba (B22ME029) , Yash Golani (B22ME072)
+
 **Department:** Mechanical Engineering, IIT Jodhpur  
-**Submitted:** November 2025
 
 ---
 

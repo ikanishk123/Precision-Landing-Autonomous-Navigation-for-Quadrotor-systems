@@ -43,6 +43,7 @@ Key components:
 <img width="1513" height="798" alt="Screenshot 2025-11-17 145342" src="https://github.com/user-attachments/assets/c9e8216b-5d41-430e-947a-1ada3c248eed" />
 
 **Figure 4 — Gazebo simulation + rqt image view**  
+
 ---
 
 ## Evaluation / Metrics

@@ -26,7 +26,6 @@ Key components:
 ---
 
 ## Results & Figures 
-> The images below are taken directly from the submitted report. If you want PNG copies inside the repo, extract them from the PDF pages linked below.
 
 <img width="989" height="466" alt="Screenshot 2025-11-17 143040" src="https://github.com/user-attachments/assets/96c79164-f253-4f31-aa5d-1a2b05391825" />
 
